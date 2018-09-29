@@ -1,6 +1,6 @@
 # forecast-app-full-stack
 
-Demo application URL : http://18.223.134.30:8080/
+Demo application URL : http://18.217.36.71:8080/ Note: In case of server down, please mail me ald.ranvijay@gmail.com
 
 ## Introduction
 
