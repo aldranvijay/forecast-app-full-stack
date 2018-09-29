@@ -1,6 +1,6 @@
 # forecast-app-full-stack
 
-Demo application URL : 
+Demo application URL : http://18.223.134.30:8080/
 
 ## Introduction
 
@@ -18,7 +18,7 @@ In the production mode, we will have only 1 server running. All the client side 
 
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/aldranvijay/forecast-app-full-stack.git
 
 # Go inside the directory
 cd forecast-app-full-stack
