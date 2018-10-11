@@ -6,7 +6,7 @@ module.exports = (app) =>{
     let city = req.body.city;
     //console.log('city >>>'+city);
     let requestQuery = {
-        q:city+',IND',
+        q:city+',IN',
         appid:'678d1128397cf76555af7c6e2cd4227a'
     };
     
